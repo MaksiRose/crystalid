@@ -1,0 +1,25 @@
+{
+	"name": "crystalid",
+	"version": "1.0.0",
+	"description": "Create readable, time-based uid's.",
+	"main": "lib/index.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MaksiRose/crystalid.git"
+	},
+	"keywords": [
+		"ID"
+	],
+	"author": "Maksi Rose",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MaksiRose/crystalid/issues"
+	},
+	"homepage": "https://github.com/MaksiRose/crystalid#readme",
+	"devDependencies": {
+		"typescript": "^4.7.4"
+	}
+}
